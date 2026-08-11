@@ -21,7 +21,7 @@ Customer churn — when a customer stops using a company's service — directly 
 - **Target variable:** `Churn` (Yes / No)
 - **Features:** Customer demographics, account information (tenure, contract type, payment method), and subscribed services (internet, streaming, tech support, etc.)
 
-> The raw CSV is not included in this repo (see [Kaggle's terms](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)). Download it and place it in the project root — see **Setup** below.
+> The raw CSV is included in this repo (bur you can also see [Original_source](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)). Download it and place it in the project root — see **Setup** below.
 
 ---
 
