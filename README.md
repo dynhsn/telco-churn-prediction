@@ -53,8 +53,6 @@ Customer churn — when a customer stops using a company's service — directly 
 
 ## 📈 Key Results
 
-> Replace the placeholders below with your actual notebook output before publishing.
-
 | Model | Accuracy | Precision | Recall |
 |---|---|---|---|
 | Logistic Regression | `0.806` | `0.659` | `0.559` |
